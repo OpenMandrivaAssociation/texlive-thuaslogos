@@ -1,6 +1,6 @@
 Name:		texlive-thuaslogos
 Version:	51347
-Release:	1
+Release:	2
 Summary:	Logos for The Hague University of Applied Sciences (THUAS)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thuaslogos
