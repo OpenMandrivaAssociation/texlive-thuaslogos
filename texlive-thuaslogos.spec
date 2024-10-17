@@ -3,7 +3,7 @@ Version:	51347
 Release:	2
 Summary:	Logos for The Hague University of Applied Sciences (THUAS)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thuaslogos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thuaslogos
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thuaslogos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thuaslogos.doc.r%{version}.tar.xz
